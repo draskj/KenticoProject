@@ -14,7 +14,7 @@ public partial class _Default : TemplatePage
 
     //some comment
     //some comment2
-    //some commentVS
+    //some commentGit
     protected override void OnPreRender(EventArgs e)
     {
         base.OnPreRender(e);
