@@ -12,7 +12,7 @@ public partial class _Default : TemplatePage
         ManagersContainer = plcManagers;
     }
 
-
+    //some comment
     protected override void OnPreRender(EventArgs e)
     {
         base.OnPreRender(e);
