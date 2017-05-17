@@ -13,6 +13,7 @@ public partial class _Default : TemplatePage
     }
 
     //some comment
+    //some comment2
     protected override void OnPreRender(EventArgs e)
     {
         base.OnPreRender(e);
