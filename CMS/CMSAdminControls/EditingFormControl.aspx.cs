@@ -65,7 +65,7 @@ public partial class CMSAdminControls_EditingFormControl : CMSModalPage
 
     #endregion
 
-
+    //here is some comment
     protected void Page_Load(object sender, EventArgs e)
     {
         if (!QueryHelper.ValidateHash("hash") || Parameters == null)
