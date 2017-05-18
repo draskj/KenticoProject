@@ -66,6 +66,7 @@ public partial class CMSAdminControls_EditingFormControl : CMSModalPage
     #endregion
 
     //here is some comment
+    //here is change from localBranch5
     protected void Page_Load(object sender, EventArgs e)
     {
         if (!QueryHelper.ValidateHash("hash") || Parameters == null)
